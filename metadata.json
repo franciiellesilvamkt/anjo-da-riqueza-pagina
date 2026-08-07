@@ -1,0 +1,6 @@
+{
+  "name": "Anjo da Riqueza - Método de Manifestação",
+  "description": "Plataforma e landing page interativa do Método das Afirmações do Anjo da Riqueza para reprogramar a mente e manifestar R$ 1.000 por semana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
