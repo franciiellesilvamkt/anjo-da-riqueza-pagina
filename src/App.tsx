@@ -19,7 +19,7 @@ export default function App() {
   const [isCheckoutOpen, setIsCheckoutOpen] = useState<boolean>(false);
 
   const handleOpenCheckout = () => {
-    setIsCheckoutOpen(true);
+    window.location.href = 'https://pay.lowify.com.br/checkout.php?product_id=m3kTCM';
   };
 
   const handleSuccessPayment = () => {
