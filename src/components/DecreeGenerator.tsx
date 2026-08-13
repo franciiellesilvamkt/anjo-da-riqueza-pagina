@@ -404,7 +404,7 @@ export const DecreeGenerator: React.FC<DecreeGeneratorProps> = ({ onOpenCheckout
                   Quer reprogramar sua mente todos os 21 dias com o pacote completo?
                 </h4>
                 <p className="text-xs sm:text-sm text-slate-300 max-w-xl mx-auto">
-                  Este decreto é apenas a primeira fagulha. No <strong>Método das Afirmações do Anjo da Riqueza</strong>, você recebe a coletânea completa em áudio de 528Hz, guia passo a passo e o ritual de ativação de R$ 1.000/semana.
+                  Este decreto é apenas a primeira fagulha. No <strong>Código 3-21 do Anjo da Riqueza</strong>, você recebe a coletânea completa em áudio de 528Hz, guia passo a passo e o ritual de ativação de R$ 1.000/semana.
                 </p>
 
                 <button
@@ -413,7 +413,7 @@ export const DecreeGenerator: React.FC<DecreeGeneratorProps> = ({ onOpenCheckout
                   id="decree-cta-unlock-btn"
                 >
                   <Lock className="w-4 h-4 text-slate-950" />
-                  <span>[ATIVAR REPROGRAMAÇÃO COMPLETA DOS 21 DIAS - R$ 17,00]</span>
+                  <span>[ATIVAR O CÓDIGO 3-21 DOS 21 DIAS - R$ 17,00]</span>
                   <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                 </button>
               </div>

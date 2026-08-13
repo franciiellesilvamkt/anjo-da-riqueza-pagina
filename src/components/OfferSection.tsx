@@ -49,7 +49,7 @@ export const OfferSection: React.FC<OfferSectionProps> = ({ onOpenCheckout }) =>
           <div className="space-y-3 mb-8 bg-slate-950/60 p-5 rounded-2xl border border-amber-500/20 text-sm">
             <div className="flex items-start gap-3">
               <CheckCircle2 className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
-              <span>Coletânea Completa de Afirmações do Anjo da Riqueza (Manhã, Dia, Noite)</span>
+              <span>Coletânea Completa de Afirmações do Código 3-21 (Manhã, Dia, Noite)</span>
             </div>
             <div className="flex items-start gap-3">
               <CheckCircle2 className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
@@ -72,7 +72,7 @@ export const OfferSection: React.FC<OfferSectionProps> = ({ onOpenCheckout }) =>
             id="offer-cta-btn"
           >
             <Lock className="w-5 h-5 text-slate-950" />
-            <span>[QUERO ATIVAR MEU CÓDIGO DA RIQUEZA - R$ 17,00]</span>
+            <span>[QUERO ATIVAR O CÓDIGO 3-21 - R$ 17,00]</span>
           </button>
 
           <div className="mt-4 flex flex-wrap items-center justify-center gap-6 text-xs text-slate-400">

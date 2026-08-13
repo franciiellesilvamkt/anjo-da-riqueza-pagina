@@ -22,7 +22,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenCheckout }) => {
               Anjo da Riqueza
             </span>
             <span className="text-[10px] text-amber-400/70 tracking-widest uppercase font-sans">
-              Método de Reprogramação
+              Código 3-21
             </span>
           </div>
         </div>

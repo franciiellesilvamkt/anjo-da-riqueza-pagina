@@ -20,14 +20,14 @@ export const Footer: React.FC<FooterProps> = ({ onOpenCheckout }) => {
                 Anjo da Riqueza
               </span>
               <span className="text-[10px] text-slate-500">
-                Método de Reprogramação Financeira em 21 Dias
+                Código 3-21 de Reprogramação Financeira em 21 Dias
               </span>
             </div>
           </div>
 
           <div className="flex items-center justify-center gap-4 text-slate-300">
             <button onClick={onOpenCheckout} className="hover:text-amber-300 transition-colors font-medium">
-              Garantir Acesso ao Método (R$ 17,00)
+              Garantir Acesso ao Código 3-21 (R$ 17,00)
             </button>
           </div>
         </div>

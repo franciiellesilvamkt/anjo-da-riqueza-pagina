@@ -73,10 +73,10 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({
             <span>Checkout Seguro 128-bit SSL</span>
           </div>
           <h3 className="font-serif text-2xl font-bold text-slate-100">
-            Ativar Código da Riqueza
+            Ativar Código 3-21 da Riqueza
           </h3>
           <p className="text-xs text-slate-300 mt-1">
-            Preencha seus dados para receber o acesso instantâneo ao método.
+            Preencha seus dados para receber o acesso instantâneo ao Código 3-21.
           </p>
         </div>
 
@@ -246,7 +246,7 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({
               Pagamento Aprovado com Sucesso!
             </h4>
             <p className="text-sm text-slate-300">
-              Sua compra do <strong>Método das Afirmações do Anjo da Riqueza</strong> foi concluída. Enviamos os dados de acesso diretamente para seu e-mail e WhatsApp.
+              Sua compra do <strong>Código 3-21 do Anjo da Riqueza</strong> foi concluída. Enviamos o e-mail de confirmação e dados de acesso diretamente para seu e-mail e WhatsApp.
             </p>
           </div>
         )}

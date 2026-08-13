@@ -36,25 +36,25 @@ export const MechanismSection: React.FC = () => {
             </div>
           </div>
 
-          {/* Right Box: The Solution - Angel Affirmations */}
+          {/* Right Box: The Solution - Código 3-21 */}
           <div className="bg-gradient-to-br from-amber-950/40 via-slate-900 to-amber-900/20 border border-amber-500/40 p-6 sm:p-8 rounded-2xl relative space-y-4 shadow-2xl shadow-amber-500/10">
             <div className="w-10 h-10 rounded-xl bg-amber-500/20 border border-amber-500/40 flex items-center justify-center text-amber-300 font-bold">
               2
             </div>
             <h3 className="font-serif text-xl font-bold text-amber-200 flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-amber-400" />
-              As Afirmações do Anjo da Riqueza
+              O Código 3-21 do Anjo da Riqueza
             </h3>
             <p className="text-sm text-slate-200 leading-relaxed">
-              Essa crença se destrava reprogramando os pensamentos que você repete todos os dias sobre o dinheiro.
+              O <strong>Código 3-21</strong> ataca a crença de escassez em <strong>3 janelas estratégicas do dia</strong> por <strong>21 dias seguidos</strong>, sem precisar de disciplina nem de força de vontade.
             </p>
             <p className="text-sm text-slate-200 leading-relaxed">
-              É exatamente isso que as <strong>Afirmações do Anjo da Riqueza</strong> fazem: um conjunto de afirmações estruturadas para você repetir diariamente, desenhadas para substituir, pouco a pouco, a voz da escassez pela voz da abundância.
+              A virada de mentalidade já começa a se sentir na primeira semana, substituindo a voz da dúvida e do medo pela certeza da prosperidade e foco nos R$ 1.000 por semana.
             </p>
             <div className="p-3 bg-amber-500/10 border border-amber-500/30 rounded-lg text-xs text-amber-300 font-medium flex items-center gap-2">
               <Zap className="w-4 h-4 text-amber-400 shrink-0" />
               <span>
-                Troque 5 minutos de dúvida diária por 21 dias de reprogramação acelerada.
+                3 janelas diárias x 21 dias seguidos = Virada de chave mental sem esforço.
               </span>
             </div>
           </div>

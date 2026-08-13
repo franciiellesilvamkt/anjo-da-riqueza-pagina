@@ -29,10 +29,10 @@ export const WhoIsItFor: React.FC<WhoIsItForProps> = ({ onOpenCheckout }) => {
             Público Ideal
           </span>
           <h2 className="font-serif text-3xl sm:text-5xl font-bold text-slate-100 mt-3">
-            Para Quem É Este Método?
+            Para Quem É O Código 3-21?
           </h2>
           <p className="text-slate-300 text-sm sm:text-base mt-2">
-            Identifique-se com o perfil certo e saiba se o Método do Anjo da Riqueza foi feito para você.
+            Identifique-se com o perfil certo e saiba se o Código 3-21 do Anjo da Riqueza foi feito para você.
           </p>
         </div>
 

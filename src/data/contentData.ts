@@ -295,12 +295,12 @@ export const BOOSTER_CODES = [
 
 export const FAQS = [
   {
-    question: 'Como recebo o acesso ao Método do Anjo da Riqueza?',
-    answer: 'O acesso é 100% imediato! Assim que seu pagamento de R$ 17,00 for aprovado, você recebe instantaneamente os dados no seu e-mail e pode acessar nossa plataforma interativa em qualquer celular, tablet ou computador.'
+    question: 'Como recebo o acesso ao Código 3-21 do Anjo da Riqueza?',
+    answer: 'O acesso é 100% imediato! Assim que seu pagamento de R$ 17,00 for aprovado, você recebe instantaneamente o e-mail de confirmação e os dados no seu e-mail e WhatsApp para acessar nossa plataforma em qualquer celular ou computador.'
   },
   {
     question: 'Preciso dedicar quantas horas por dia?',
-    answer: 'Apenas 5 a 10 minutos por dia! As afirmações e áudios guiados foram projetados para se encaixarem perfeitamente na sua rotina matinal ou no momento antes de dormir.'
+    answer: 'Apenas de 3 a 5 minutos por janela! As afirmações e áudios guiados do Código 3-21 foram projetados para serem ativados em 3 janelas do dia (Manhã, Dia e Noite) por 21 dias sem precisar de esforço.'
   },
   {
     question: 'E se eu nunca tiver feito afirmações ou lei da atração antes?',
@@ -308,6 +308,6 @@ export const FAQS = [
   },
   {
     question: 'O que acontece se eu não gostar?',
-    answer: 'Você conta com nossa Garantia Incondicional de 7 Dias. Se por qualquer motivo sentir que o método não é para você, basta nos enviar um e-mail e devolveremos 100% do seu dinheiro sem perguntas.'
+    answer: 'Você conta com nossa Garantia Incondicional de 7 Dias. Se por qualquer motivo sentir que o Código 3-21 não é para você, basta nos enviar um e-mail e devolveremos 100% do seu dinheiro sem perguntas.'
   }
 ];

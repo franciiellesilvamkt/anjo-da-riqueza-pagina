@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Sparkles, ShieldCheck, Play, Pause, Volume2, CheckCircle2, ArrowRight, Zap, VolumeX } from 'lucide-react';
-import heroImage from '../assets/images/anjo_da_riqueza_hero_1786115766061.jpg';
+import heroImage from '../assets/images/male_wealth_angel_hero_1786578860585.jpg';
 
 interface HeroSectionProps {
   onOpenCheckout: () => void;
@@ -100,7 +100,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenCheckout }) => {
         <div className="flex justify-center mb-6">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs sm:text-sm font-medium shadow-inner shadow-amber-500/10 animate-bounce">
             <Sparkles className="w-4 h-4 text-amber-400" />
-            <span>Reprogramação Subconsciente em 21 Dias</span>
+            <span>Código 3-21 • Ativação em 21 Dias</span>
             <span className="bg-amber-400 text-slate-950 text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
               R$ 17,00
             </span>
@@ -118,7 +118,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenCheckout }) => {
 
           {/* Subheadline */}
           <p className="text-base sm:text-xl text-slate-300 font-normal leading-relaxed max-w-3xl mx-auto">
-            O <strong className="text-amber-300 font-semibold">Método das Afirmações do Anjo da Riqueza</strong> para destravar sua mente da escassez e abrir espaço para a prosperidade entrar na sua vida em apenas <span className="underline decoration-amber-400 font-bold text-amber-200">21 dias</span>.
+            O <strong className="text-amber-300 font-semibold">Código 3-21 do Anjo da Riqueza</strong> ataca a crença de escassez em 3 janelas do dia por 21 dias seguidos, sem precisar de disciplina nem de força de vontade. A virada de mentalidade já começa a se sentir na primeira semana para você destravar de <span className="underline decoration-amber-400 font-bold text-amber-200">R$ 1.000 por semana</span>.
           </p>
         </div>
 
@@ -211,7 +211,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenCheckout }) => {
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
                   <span>
-                    <strong>Método Guiado Prático:</strong> Áudios e afirmações prontas sem complicação.
+                    <strong>Código 3-21 sem Esforço:</strong> 3 janelas do dia por 21 dias sem precisar de força de vontade.
                   </span>
                 </li>
               </ul>
@@ -236,7 +236,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenCheckout }) => {
                 id="hero-main-cta-btn"
               >
                 <Zap className="w-5 h-5 fill-slate-950" />
-                <span>[QUERO ATIVAR MEU CÓDIGO DA RIQUEZA]</span>
+                <span>[QUERO ATIVAR O CÓDIGO 3-21 - R$ 17,00]</span>
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </button>
 

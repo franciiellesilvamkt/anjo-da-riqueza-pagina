@@ -1,6 +1,6 @@
 import React from 'react';
 import { BookOpen, Headphones, Flame, CheckCircle2, Sparkles, Smartphone, Check } from 'lucide-react';
-import squareImage from '../assets/images/anjo_da_riqueza_square_1786115784270.jpg';
+import squareImage from '../assets/images/male_wealth_angel_square_1786578872859.jpg';
 
 interface WhatYouGetProps {
   onOpenCheckout: () => void;
@@ -10,15 +10,15 @@ export const WhatYouGetSection: React.FC<WhatYouGetProps> = ({ onOpenCheckout })
   const items = [
     {
       icon: <Sparkles className="w-6 h-6 text-amber-400" />,
-      title: 'Coletânea Completa de Afirmações do Anjo da Riqueza',
-      badge: 'Organizadas por Turno',
-      description: 'Afirmações de prosperidade estruturadas cientificamente e espiritualmente para Manhã (Despertar), Durante o Dia (Foco & Ação) e Antes de Dormir (Subconsciente Delta).'
+      title: 'Coletânea Completa de Afirmações do Código 3-21',
+      badge: '3 Janelas Diárias',
+      description: 'Afirmações de prosperidade estruturadas para Manhã (Despertar), Durante o Dia (Foco & Ação) e Antes de Dormir (Subconsciente Delta).'
     },
     {
       icon: <BookOpen className="w-6 h-6 text-amber-400" />,
-      title: 'Guia Prático de 21 Dias de Instalação',
-      badge: 'Passo a Passo Diário',
-      description: 'O roteiro dia a dia para criar o hábito inabalável de repetição e sentir a mudança de mentalidade se instalando com facilidade e sem esforço.'
+      title: 'Guia Prático do Código 3-21 de Instalação',
+      badge: 'Passo a Passo de 21 Dias',
+      description: 'O roteiro dia a dia para criar o hábito inabalável e sentir a virada de mentalidade já na primeira semana, sem precisar de disciplina nem força de vontade.'
     },
     {
       icon: <Headphones className="w-6 h-6 text-amber-400" />,
@@ -40,7 +40,7 @@ export const WhatYouGetSection: React.FC<WhatYouGetProps> = ({ onOpenCheckout })
         
         <div className="text-center max-w-3xl mx-auto mb-14">
           <span className="text-xs font-semibold uppercase tracking-widest text-amber-400 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/20">
-            Conteúdo Completo do Método
+            Conteúdo Completo do Código 3-21
           </span>
           <h2 className="font-serif text-3xl sm:text-5xl font-bold text-slate-100 mt-3">
             O Que Você Recebe Imediatamente
